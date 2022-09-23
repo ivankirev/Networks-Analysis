@@ -1,5 +1,7 @@
 # Network-Analysis
 
+## Hierarchical and Spectral Clustering, Centralities Analysis
+
 ### Hierarchical
 
 In this project we consider the dolphin data set. Each row in the dataset corresponds to one of the N=62 bottlenose dolphins in the studied network. We have three sources of information:
